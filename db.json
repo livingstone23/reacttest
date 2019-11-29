@@ -1,0 +1,47 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Cheesecake Chocolate",
+      "precioPlatillo": "200",
+      "categoria": "postres",
+      "id": 1
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Reduxxx",
+      "precio": "300"
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "name": "Cheesecake Chocolate",
+      "description": "200",
+      "status": true,
+      "userid": 8
+    },
+    {
+      "id": 2,
+      "name": "new task",
+      "description": "description5 22",
+      "userid": 8,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Message3",
+      "description": "Description3",
+      "userid": 8,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Message4",
+      "description": "description 44",
+      "userid": 8,
+      "status": true
+    }
+  ]
+}
